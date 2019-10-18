@@ -1,0 +1,10 @@
+INSERT INTO ROOM (name,room_number,bed_info) values ('Piccadilly','P1','1Q');
+INSERT INTO ROOM (name,room_number,bed_info) values ('Piccadilly','P2','2Q');
+INSERT INTO ROOM (name,room_number,bed_info) values ('Piccadilly','P3','3Q');
+INSERT INTO ROOM (name,room_number,bed_info) values ('Piccadilly','P4','2D');
+INSERT INTO ROOM (name,room_number,bed_info) values ('ARONG','P5','4R');
+INSERT INTO ROOM (name,room_number,bed_info) values ('ARONG','P6','5T');
+INSERT INTO ROOM (name,room_number,bed_info) values ('ARONG','P7','10T');
+INSERT INTO ROOM (name,room_number,bed_info) values ('ARONG','P8','20R');
+INSERT INTO ROOM (name,room_number,bed_info) values ('ARONG','P9','22R');
+INSERT INTO ROOM (name,room_number,bed_info) values ('BAHARIA','P10','10R');
